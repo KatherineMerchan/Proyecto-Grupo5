@@ -1,2 +1,2 @@
-# Proyecto-Grupo5
+# Proyecto - Grupo5
 SISTEMA DE GESTIÓN DE TAREAS Y CONTROL DE CALIFICACIONES
